@@ -1,0 +1,1 @@
+include ':app', ':domain', ':web', ':data', ':storage', ':storage'
